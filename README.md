@@ -2,7 +2,7 @@
 
 🎓 Estudante de Engenharia de Software no Centro Universitário UniBrasil.  
 💻 Atualmente estudando **Lógica de Programação** e **Desenvolvimento em C#**.  
-🚀 Interessado em Redes de Computadores, Lógica e Desenvolvimento de Sistemas.  
+🚀 Lógica e Desenvolvimento de Sistemas.  
 
 ## 🛠️ Tecnologias & Ferramentas
 - C#

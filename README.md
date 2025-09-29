@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Octavio Henrique Knupp Lucio
 
-<!--
-**octavio-knupp/octavio-knupp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software no Centro Universitário UniBrasil.  
+💻 Atualmente estudando **Lógica de Programação** e **Desenvolvimento em C#**.  
+🚀 Interessado em Redes de Computadores, Lógica e Desenvolvimento de Sistemas.  
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias & Ferramentas
+- C#
+- .NET
+- Pacote Office 365
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Como me encontrar
+- [LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- [Email](mailto:seuemail@exemplo.com)

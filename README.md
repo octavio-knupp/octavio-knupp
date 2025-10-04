@@ -38,8 +38,8 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />
 
-
-
+<br/>
+<br/>
 
 ## 📫 Como me encontrar
 - [LinkedIn](https://www.linkedin.com/in/seu-perfil)

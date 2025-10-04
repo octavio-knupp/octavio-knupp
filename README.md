@@ -5,7 +5,7 @@
 🚀 Interessado em Lógica e Desenvolvimento de Sistemas.  
 
 ## 🛠️ Tecnologias & Ferramentas
--<img 
+<img 
     align="left" 
     alt="HTML"
     title="HTML" 
@@ -13,7 +13,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
-- <img 
+<img 
     align="left" 
     alt="CSS" 
     title="CSS"
@@ -21,7 +21,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-- <img 
+<img 
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
@@ -29,7 +29,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-- <img
+<img
     align="left"
     alte="C#"
     title="C#"

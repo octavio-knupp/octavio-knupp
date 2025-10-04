@@ -37,10 +37,7 @@
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />
-
 <br/>
-<br/>
-
 ## 📫 Como me encontrar
 - [LinkedIn](https://www.linkedin.com/in/seu-perfil)
 - [Email](mailto:seuemail@exemplo.com)

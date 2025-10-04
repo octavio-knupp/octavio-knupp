@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Octavio Henrique Knupp Lucio
+#  Olá, eu sou o Octavio Henrique Knupp Lucio
 
 🎓 Estudante de Engenharia de Software no Centro Universitário UniBrasil.  
 💻 Atualmente estudando **Lógica de Programação** e **Desenvolvimento em C#**.  

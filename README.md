@@ -1,43 +1,20 @@
-#  Olá, eu sou o Octavio Henrique Knupp Lucio
+## Olá, eu sou o Octavio
 
-🎓 Estudante de Engenharia de Software no Centro Universitário UniBrasil.  
-💻 Atualmente estudando **Lógica de Programação** e **Desenvolvimento em C#**.  
-🚀 Interessado em Lógica e Desenvolvimento de Sistemas.  
+Desenvolvedor **Python**, focado em backend e automação de processos.
 
-## 🛠️ Tecnologias & Ferramentas
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px"
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img
-    align="left"
-    alte="C#"
-    title="C#"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-/>
-<br/>
-## 📫 Como me encontrar
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- [Email](mailto:seuemail@exemplo.com)
+Estudo Engenharia de Software na UniBrasil e trabalho no Grupo GPS, onde construo robôs de automação em Python e aplicações web em Django que substituem processos manuais da operação.
+
+### No que trabalho hoje
+
+- Automação de processos com Python, Selenium e Pandas
+- Aplicações web e APIs com Django
+- Modelagem e consultas em SQL
+
+### Stack
+
+Python · Django · Pandas · Selenium · SQL · PostgreSQL · Git · C# · JavaScript · HTML · CSS
+
+### Contato
+
+- LinkedIn: https://www.linkedin.com/in/octavio-knupp
+- Email: octavioknupp882@gmail.com
